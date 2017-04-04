@@ -1,0 +1,13 @@
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\bin\Debug\TrainLcd.exe.config
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\bin\Debug\TrainLcd.exe
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\bin\Debug\TrainLcd.pdb
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.csprojResolveAssemblyReference.cache
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.Form1.resources
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.Properties.Resources.resources
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.csproj.GenerateResource.Cache
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.exe
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.pdb
+c:\users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.LcdDisplay.resources
+C:\Users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.WaitDeparture.resources
+C:\Users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.SmallTransitJa_0.resources
+C:\Users\ryoga\documents\visual studio 2017\Projects\TrainLcd\TrainLcd\obj\Debug\TrainLcd.SmallTransitEn_0.resources
